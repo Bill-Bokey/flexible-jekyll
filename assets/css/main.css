@@ -45,6 +45,12 @@ h1 {
   margin: 0.67em 0;
 }
 
+h1.sidebarsidebar {
+   font-size: 1em;
+   margin: 0.67em 0;
+   font-weight: bold !important;
+}
+
 /* Grouping content
    ========================================================================== */
 /**
