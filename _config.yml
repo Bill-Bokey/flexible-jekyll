@@ -1,6 +1,6 @@
 ---
 title: Le Blog du Marié
-timezone: UTC
+timezone: Europe/Paris
 collections:
   posts:
     title: Posts
