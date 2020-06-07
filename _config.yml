@@ -14,10 +14,10 @@ description: 'Write an awesome description for your new site here. You can edit 
 
 '
 permalink: ":title/"
-baseurl: ''
+baseurl: 
 url: 
 site-twitter: 
-author: David Freeman
+author: Le Blog du Marié
 author-img: david-freeman.jpg
 about-author: I am a web developer focusing on front-end development. Always hungry
   to keep learning.
